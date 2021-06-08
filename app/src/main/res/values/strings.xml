@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">IndagoIP</string>
+
+
+    <!-- botones -->
+    <string name="button_caso1">Localizar</string>
+    <string name="button_caso2">Buscar enlaces</string>
+    <string name="button_github">GitHub</string>
+
+
+    <!-- Settings -->
+    <string name="proveedor">Proveedores de Servicios</string>
+    <string name="specify_proveedor_mapas">Selecionar proveedor de mapas</string>
+    <string name="prefs_proveedor">prefs_proveedor</string>
+    <string name="proveedor_google_text">Google Maps</string>
+    <string name="proveedor_google_key">google</string>
+    <string name="proveedor_openstreet_text">OpenStreetMap</string>
+    <string name="proveedor_openstreet_key">open_street</string>
+
+    <string name="guardar_logs">Logs peticiones</string>
+    <string name="prefs_guardar_logs">prefs_guardar_logs</string>
+
+
+    <!-- Menú toolbar -->
+    <string name="submenu_developer">Acerca de</string>
+    <string name="submenu_logs">Logs</string>
+    <string name="submenu_settings">Settings</string>
+
+    <!-- información personal -->
+    <string name="nombre_desarrollador">David Álvarez</string>
+    <string name="ciudad_desarrollador">Santiago de Compostela</string>
+    <string name="universidad_desarrollador">Universidad de Burgos</string>
+    <string name="github_desarrollador">https://github.com/davidalvarezcastro/</string>
+    <string name="email_desarrollador">dac1005@alu.ubu.es</string>
+    <string name="facebook_desarrollador">https://www.facebook.com/david.alvarezCastroG/</string>
+
+
+    <!-- avisos -->
+    <string name="aviso_agitar_smartphone">Agita para cambiar de servicio de mapas</string>
+    <string name="aviso_cambio_proveedor">Cambiando al proveedor %s</string>
+    <string name="aviso_fallo_coordenadas">Error obteniendo coordenadas (servicio %s)</string>
+    <string name="aviso_fallo_parsear_json_coordenadas">Formato de coordenadas erróneo</string>
+    <string name="aviso_formato_host">Formato de host erróneo</string>
+    <string name="aviso_no_conexion">No hay conexión a Internet</string>
+    <string name="aviso_no_host">Host no indicado</string>
+    <string name="aviso_no_hosts">No se encontraron hosts</string>
+    <string name="aviso_problemas_buscar_hosts">Problemas de conexión buscando hosts</string>
+    <string name="aviso_proveedor_mapas">Proveedor %s desconocido</string>
+    <string name="aviso_tipo_url_no_renderizable">Esta url no se puede previsualizar en el mapa</string>
+
+
+    <!-- activities -->
+    <string name="title_activity_acerca_de">Acerca de</string>
+    <string name="title_activity_listado_hosts">Hosts Disponibles</string>
+    <string name="title_activity_listado_logs">Logs</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_visualizar_mapa">Visualizar Mapa</string>
+
+</resources>

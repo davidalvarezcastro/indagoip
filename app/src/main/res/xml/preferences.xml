@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--below line is to create preference category-->
+    <PreferenceCategory android:title="General">
+
+        <ListPreference
+            android:defaultValue="@string/proveedor_google_key"
+            android:dialogTitle="@string/proveedor"
+            android:entries="@array/entries_proveedor"
+            android:entryValues="@array/entryValues_proveedor"
+            android:key="@string/prefs_proveedor"
+            android:summary="@string/specify_proveedor_mapas"
+            android:title="@string/proveedor" />
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/prefs_guardar_logs"
+            android:title="@string/guardar_logs" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="entryValues_proveedor">
+        <item>@string/proveedor_google_key</item>
+        <item>@string/proveedor_openstreet_key</item>
+    </string-array>
+
+    <string-array name="entries_proveedor">
+        <item>@string/proveedor_google_text</item>
+        <item>@string/proveedor_openstreet_text</item>
+    </string-array>
+</resources>
