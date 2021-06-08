@@ -16,6 +16,8 @@ Requisitos no funcionales:
 - Compatible para mínimo API 17, y versiones posteriores.
 - Compatibile para dispositivos normal ldpi, xhdpi y tablets de x-large mdpi.
 
+En la carpeta `pictures` se muestran una serie de capturas de la aplicacion.
+
 ---
 
 ## Funcionalidades
